@@ -351,12 +351,13 @@ nav ul li a:hover{
 
 .comofunciona p{
     border-radius: 5px;
-    background-color: #dfe9f5;
+    background-color: #eff4fd;
     letter-spacing: 1px;
     line-height: 28px;  
     font-size: 18px;
     color: black;
     text-align: center;
+    max-width: 96%;
     
 }
 
