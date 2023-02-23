@@ -335,7 +335,7 @@ nav ul li a:hover{
 }
 
 .comofunciona{
-    width: 1130px;
+    width: 1000px;
     max-width: 95%;
     margin: 30px auto;
     text-align: center;
@@ -350,8 +350,14 @@ nav ul li a:hover{
 }
 
 .comofunciona p{
-    font-size: 20px;
+    border-radius: 5px;
+    background-color: #dfe9f5;
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
     color: black;
+    text-align: center;
+    
 }
 
 .comofunciona p1{
