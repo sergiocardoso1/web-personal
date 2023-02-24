@@ -629,7 +629,27 @@ footer p:nth-child(4){
     }
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 900px) {
+
+    .content h1{
+        font-size: 90px;
+    }
+    
+    .content h3{
+        font-size: 40px;
+    
+    }
+    
+    .content h4{
+        font-size: 35px;
+        
+    }
+    
+    .btnsobremim{
+        font-size: 20px;
+        width: 250px;
+    }
+
     .box{
         display: block;
         align-items: center;
