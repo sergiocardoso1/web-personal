@@ -106,7 +106,6 @@ nav ul li a:hover{
     top: 50%;
     left: 8%;
     transform: translateY(-50%);
-    margin-top: 30px;
 }
 
 .content h1{
@@ -232,7 +231,7 @@ nav ul li a:hover{
 
 .title h2{
     color: #0965ce;
-    font-size: 65px;
+    font-size: 75px;
     width: 1130px;
     margin: 25px auto;
     text-align: center;
@@ -326,7 +325,7 @@ nav ul li a:hover{
 
 .comofuncionageral h1{
     color: #0965ce;
-    font-size: 65px;
+    font-size: 75px;
     width: 1130px;
     margin: 30px auto;
     text-align: center;
@@ -348,8 +347,6 @@ nav ul li a:hover{
     font-size: 30px;
     font-weight: bold;
     color: black;
-    margin-top: 50px;
-    margin-bottom: 20px;
 }
 
 .comofunciona p{
@@ -553,27 +550,9 @@ footer p:nth-child(4){
         max-width: 95%;
     }
 
-    .about-text h6{
-        font-size: 80px;
-    }
-    
-    .about-text h5{
-        font-size: 40px;
-    }
-    
-    .about-text p{
-        font-size: 22px;
-        text-align: justify;
-    }
-
     .main img{
         max-width: 95%;
         max-height: auto;
-    }
-
-    .btncontato2{
-        font-size: 25px;
-        width: 300px;
     }
 }
 
@@ -626,7 +605,7 @@ footer p:nth-child(4){
         margin-top: 5px;
         margin-bottom: 5px;
         font-size: 25px;
-        width: 300px;
+        width: 250px;
         
     }
 
@@ -647,123 +626,25 @@ footer p:nth-child(4){
         visibility: visible;
     }
 
-    .logo{
-        margin-top: 15px;
-        height: 60px;
-    }
-
-    .bx-menu{
-        font-size: 40px;
-    }
 }
 
-@media (max-width: 1050px) {
 
-    .content h1{
-        font-size: 90px;
-    }
-    
-    .content h3{
-        font-size: 40px;
-    
-    }
-    
-    .content h4{
-        font-size: 35px;
-        max-width: 95%;
-        
-    }
-    
-    .btnsobremim{
-        font-size: 20px;
-        width: 250px;
-    }
 
-    
-    .depoimentos{
-        height: 550px;
-        width: 550px;
-        
-    }
+@media (max-width: 750px) {
 
-    .card{
-        height: 390px;
-        
-    }
 
-    .card .btncontato3{
-        font-size: 15px;
-        width: 250px;
-    }
-    
-    footer{
-        height: 400px;
-        
-    }
-    
-    footer p:nth-child(2){
-        font-size: 40px;
-    }
-    
-    footer p:nth-child(3){
-        font-size: 22px;
-        margin-bottom: 10px;
-        
-    }
-    
-    footer p:nth-child(4){
-        font-size: 25px;
-    }
-    
-    .social a{
-        width: 70px;
-        height: 70px;
-    }
-    
-    .end{
-        font-size: 20px;
-    }
-        
-}
-
-@media (max-width: 800px){
     .box{
         display: block;
         align-items: center;
         justify-content: space-between;
         
-        
+       
     }
     .card{
         margin: 0 auto;
         margin-bottom: 40px;
     }
-}
 
 
-@media (max-width: 650px) {
-    .depoimentos{
-        height: 450px;
-        width: 450px;
-        
-    }
-
-}
-
-@media (max-width: 500px) {
-    .depoimentos{
-        height: 350px;
-        width: 350px;
-        
-    }
-
-}
-
-@media (max-width: 400px) {
-    .depoimentos{
-        height: 300px;
-        width: 300px;
-        
-    }
-
+    
 }
