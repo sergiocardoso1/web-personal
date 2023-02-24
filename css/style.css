@@ -679,6 +679,16 @@ footer p:nth-child(4){
         width: 550px;
         
     }
+
+    .card{
+        height: 390px;
+        
+    }
+
+    .card .btncontato3{
+        font-size: 25px;
+        width: 250px;
+    }
     
     footer{
         height: 400px;
@@ -690,7 +700,8 @@ footer p:nth-child(4){
     }
     
     footer p:nth-child(3){
-        font-size: 25px;
+        font-size: 22px;
+        margin-bottom: 10px;
         
     }
     
@@ -699,8 +710,8 @@ footer p:nth-child(4){
     }
     
     .social a{
-        width: 55px;
-        height: 55px;
+        width: 70px;
+        height: 70px;
     }
     
     .end{
