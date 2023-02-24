@@ -552,9 +552,26 @@ footer p:nth-child(4){
         max-width: 95%;
     }
 
+    .about-text h6{
+        font-size: 80px;
+    }
+    
+    .about-text h5{
+        font-size: 40px;
+    }
+    
+    .about-text p{
+        font-size: 25px;
+    }
+
     .main img{
         max-width: 95%;
         max-height: auto;
+    }
+
+    .btncontato2{
+        font-size: 20px;
+        width: 250px;
     }
 }
 
@@ -627,6 +644,10 @@ footer p:nth-child(4){
         height: 50vh;
         visibility: visible;
     }
+
+    .logo{
+        width: 50px;
+    }
 }
 
 @media (max-width: 1050px) {
@@ -642,6 +663,7 @@ footer p:nth-child(4){
     
     .content h4{
         font-size: 35px;
+        max-width: 95%;
         
     }
     
@@ -650,17 +672,6 @@ footer p:nth-child(4){
         width: 250px;
     }
 
-    .box{
-        display: block;
-        align-items: center;
-        justify-content: space-between;
-        
-        
-    }
-    .card{
-        margin: 0 auto;
-        margin-bottom: 40px;
-    }
     
     .depoimentos{
         height: 550px;
@@ -695,6 +706,20 @@ footer p:nth-child(4){
         font-size: 20px;
     }
         
+}
+
+@media (max-width: 800px){
+    .box{
+        display: block;
+        align-items: center;
+        justify-content: space-between;
+        
+        
+    }
+    .card{
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
 }
 
 
