@@ -650,6 +650,7 @@ footer p:nth-child(4){
     .logo{
         margin-top: 15px;
         height: 60px;
+        width: auto;
     }
 
     .bx-menu{
@@ -718,6 +719,7 @@ footer p:nth-child(4){
     .social a{
         width: 70px;
         height: 70px;
+        font-size: 35px;
     }
     
     .end{
