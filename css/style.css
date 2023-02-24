@@ -629,51 +629,51 @@ footer p:nth-child(4){
     }
 }
 
-@media (max-width: 900px) {
-        .box{
-            display: block;
-            align-items: center;
-            justify-content: space-between;
-            
-           
-        }
-        .card{
-            margin: 0 auto;
-            margin-bottom: 40px;
-        }
+@media (max-width: 1050px) {
+    .box{
+        display: block;
+        align-items: center;
+        justify-content: space-between;
         
-        .depoimentos{
-            height: 550px;
-            width: 550px;
-            
-        }
         
-        footer{
-            height: 400px;
-            
-        }
+    }
+    .card{
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    
+    .depoimentos{
+        height: 550px;
+        width: 550px;
         
-        footer p:nth-child(2){
-            font-size: 40px;
-        }
+    }
+    
+    footer{
+        height: 400px;
         
-        footer p:nth-child(3){
-            font-size: 25px;
-            
-        }
+    }
+    
+    footer p:nth-child(2){
+        font-size: 40px;
+    }
+    
+    footer p:nth-child(3){
+        font-size: 25px;
         
-        footer p:nth-child(4){
-            font-size: 25px;
-        }
-        
-        .social a{
-            width: 55px;
-            height: 55px;
-        }
-        
-        .end{
-            font-size: 20px;
-        }
+    }
+    
+    footer p:nth-child(4){
+        font-size: 25px;
+    }
+    
+    .social a{
+        width: 55px;
+        height: 55px;
+    }
+    
+    .end{
+        font-size: 20px;
+    }
         
 }
 
