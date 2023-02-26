@@ -234,9 +234,8 @@ nav ul li a:hover{
     color: #0965ce;
     font-size: 65px;
     width: 1130px;
-    margin: 25px auto;
+    margin: 15px auto;
     text-align: center;
-    margin-bottom: 20px;
     max-width: 95%;
 }
 
@@ -244,7 +243,7 @@ nav ul li a:hover{
     color: #0965ce;
     font-size: 65px;
     width: 1130px;
-    margin: 25px auto;
+    margin: 15px auto;
     text-align: center;
     border-bottom: 3px solid #0965ce;
     max-width: 95%;
@@ -258,8 +257,8 @@ nav ul li a:hover{
 }
 
 .card{
-    height: 365px;
-    width: 335px;
+    height: 330px;
+    width: 300px;
     padding: 20px 35px;
     background: rgb(240, 239, 239);
     border-radius: 20px;
@@ -273,10 +272,10 @@ nav ul li a:hover{
 }
 
 .card i{
-    font-size: 50px;
+    font-size: 40px;
     display: block;
     text-align: center;
-    margin: 25px 0px;
+    margin: 20px 0px;
     color: #0965ce;
 }
 
@@ -330,7 +329,7 @@ nav ul li a:hover{
 
 .comofuncionageral{
     margin-top: 20px;
-    background: white;
+    background: rgb(255, 255, 255);
     width: 100%;
 }
 
@@ -700,8 +699,12 @@ footer p:nth-child(4){
     }
 
     .card{
-        height: 390px;
+        height: 330px;
         
+    }
+
+    .pra p{
+        font-size: 30px;
     }
 
     .card .btncontato3{
@@ -740,7 +743,7 @@ footer p:nth-child(4){
         
 }
 
-@media (max-width: 800px){
+@media (max-width: 920px){
     .box{
         display: block;
         align-items: center;
