@@ -35,7 +35,7 @@
  setInterval(function(){
    document.getElementById('slide' + contador).checked = true;
    contador++;
-   if(contador > 4){
+   if(contador > 5){
       contador = 1;
    }
  },4000)
