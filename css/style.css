@@ -241,7 +241,7 @@ nav ul li a:hover{
 
 .title h2{
     color: #0965ce;
-    font-size: 65px;
+    font-size: 55px;
     width: 1130px;
     margin: 15px auto;
     text-align: center;
@@ -261,7 +261,7 @@ nav ul li a:hover{
     width: 300px;
     padding: 20px 35px;
     background: rgb(240, 239, 239);
-    border-radius: 20px;
+    border-radius: 15px;
     border:solid 3px black;
     margin: 15px;
     margin-bottom: 50px;
@@ -286,22 +286,15 @@ nav ul li a:hover{
     margin: 20px 0px;
     color: #000000;
 }
-
-.service h5{
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-    margin-top: 25px;
-}
-
 .service h1{
     color: rgb(0, 0, 0);
     font-size: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
 }
 
 .pra p{
     color: #0965ce;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 27px;
     margin-bottom: 25px;
 }
@@ -764,6 +757,12 @@ footer p:nth-child(4){
     .card{
         margin: 0 auto;
         margin-bottom: 40px;
+    }
+    .textodonav{
+        font-size: 30px;
+        
+    
+
     }
 }
 
