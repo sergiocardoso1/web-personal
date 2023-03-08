@@ -360,8 +360,177 @@ nav ul li a:hover{
     font-weight: bold;
     color: #0851a5;
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-left: 30px;
+}
+
+.comofunciona a{
+    display: flex;
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+    color: #0851a5;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 6px;
+    padding-left: 3px;
+}
+
+#textoparagrafo1{
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 0px;
+    transition: .6s;
+    visibility: hidden;
+    overflow-y: hidden;
+}
+
+#textoparagrafo1.active{
+    visibility: visible;
+    transition: .40s;
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 100%;
+}
+
+#textoparagrafo2{
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 0px;
+    transition: .6s;
+    visibility: hidden;
+    overflow-y: hidden;
+}
+
+#textoparagrafo2.active{
+    visibility: visible;
+    transition: .40s;
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 100%;
+    
+}
+
+#textoparagrafo3{
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 0px;
+    transition: .6s;
+    visibility: hidden;
+    overflow-y: hidden;
+}
+
+#textoparagrafo3.active{
+    visibility: visible;
+    transition: .40s;
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 100%;
+    
+}
+
+#textoparagrafo4{
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 0px;
+    transition: .40s;
+    visibility: hidden;
+    overflow-y: hidden;
+}
+
+#textoparagrafo4.active{
+    visibility: visible;
+    transition: .6s;
+    letter-spacing: 1px;
+    line-height: 28px;  
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background: rgb(37, 40, 44);
+    margin: 0px auto;
+    margin-bottom: 2px;
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 10px;
+    height: 100%;
+    
 }
 
 .comofunciona p{
