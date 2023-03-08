@@ -378,6 +378,7 @@ nav ul li a:hover{
     padding-left: 3px;
     padding-top: 6px;
     padding-bottom: 6px;
+    margin-right: 30px
 }
 
 #textoparagrafo1{
@@ -390,6 +391,7 @@ nav ul li a:hover{
     background: rgb(37, 40, 44);
     margin: 0px auto;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 0px;
@@ -408,11 +410,11 @@ nav ul li a:hover{
     text-align: justify;
     padding-top: 10px;
     padding-bottom: 10px;
-    margin-left: 30px;
     background: rgb(37, 40, 44);
     margin: 0px auto;
     margin-bottom: 2px;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 100%;
@@ -428,6 +430,7 @@ nav ul li a:hover{
     background: rgb(37, 40, 44);
     margin: 0px auto;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 0px;
@@ -451,6 +454,7 @@ nav ul li a:hover{
     margin: 0px auto;
     margin-bottom: 2px;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 100%;
@@ -467,6 +471,7 @@ nav ul li a:hover{
     background: rgb(37, 40, 44);
     margin: 0px auto;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 0px;
@@ -486,10 +491,12 @@ nav ul li a:hover{
     padding-top: 10px;
     padding-bottom: 10px;
     margin-left: 30px;
+    margin-right: 30px;
     background: rgb(37, 40, 44);
     margin: 0px auto;
     margin-bottom: 2px;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 100%;
@@ -506,6 +513,7 @@ nav ul li a:hover{
     background: rgb(37, 40, 44);
     margin: 0px auto;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 0px;
@@ -529,6 +537,7 @@ nav ul li a:hover{
     margin: 0px auto;
     margin-bottom: 2px;
     margin-left: 30px;
+    margin-right: 30px;
     padding-left: 5px;
     padding-right: 10px;
     height: 100%;
