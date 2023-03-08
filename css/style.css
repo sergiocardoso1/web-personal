@@ -376,6 +376,8 @@ nav ul li a:hover{
     background-color: white;
     border-radius: 6px;
     padding-left: 3px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 #textoparagrafo1{
