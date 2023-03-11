@@ -730,7 +730,19 @@ footer p:nth-child(4){
     color: rgb(15, 22, 14);
 }
 
+@media (max-height: 780px) {
+    .content{
+        top: 60%;
+        
+    }
+}
 
+@media (max-height: 650px) {
+    .content{
+        top: 65%;
+        
+    }
+}
 
 
 @media (max-width: 1150px) {
