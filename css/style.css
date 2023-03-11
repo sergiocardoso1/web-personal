@@ -781,6 +781,8 @@ footer p:nth-child(4){
     }
 }
 
+
+
 @media (max-width: 1050px) {
 
 
@@ -856,7 +858,7 @@ footer p:nth-child(4){
     }
 
     #nav.active #menu{
-        height: 40vh;
+        height: 80vh;
         visibility: visible;
     }
 
